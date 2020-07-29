@@ -1,0 +1,6 @@
+@import "~bootstrap/scss/bootstrap.scss"; // "~" - Porcura dentro de node modules
+
+$fa-font-path: "~font-awesome/fonts"; // Sobrescrevendo variavel do sass para referenciar as fontes
+@import "~font-awesome/scss/font-awesome";
+
+@import "custom";
